@@ -42,3 +42,11 @@ Firebase 기반으로 백엔드를 구성하며,
 
 2.8 배포  
 - firebase hosting
+
+# Doc
+
+- 프론트엔드 : react, typescript, tailwindCSS, shadcn/ui
+- 백엔드 : firebase (Auth, firestore, realtime DB, Storage, hosting)
+-
+
+# Current file structure
